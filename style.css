@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+  }
+
+body{
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+    }
+.form{
+  margin-top: 10%;
+  margin-left: 30%;
+}
+#carouselExampleInterval
+{ 
+  margin-left: 25%;
+  width: 50%;
+  height: 50%;
+}
+footer{
+  margin-left: 25%;
+}
